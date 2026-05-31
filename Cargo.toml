@@ -2,6 +2,8 @@
 name = "lau-penrose-v2"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-penrose-v2"
 description = "Penrose correlation engine v2 — detecting and predicting correlations between PLATO rooms"
 
 [dependencies]
